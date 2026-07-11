@@ -546,7 +546,7 @@ Create a user
 
 ```sql
 CREATE USER test_profile
-IDENTIFIED BY Test@123;
+IDENTIFIED BY "Test@123";
 ```
 
 ---
